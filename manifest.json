@@ -1,6 +1,6 @@
 {
-  "name": "ScreenSharing Extension",
-  "description": "ScreenSharing Extension V2",
+  "name": "RealTimeCat ScreenSharing Extension",
+  "description": "RealTimeCat ScreenSharing Extension V2",
   "version": "0.2.0",
   "manifest_version": 2,
   "icons": {
