@@ -14,6 +14,6 @@ clone项目至本地，修改 `manifest.json` 配置文件中的 `externally_con
 
 **注意：** `*`**不能少！**
 
-## 调试安装
+## 安装
 
 在chrome浏览器中访问`chrome://extensions/`页面，勾选`Devloper mode`, 点击`Load unpacked extension...`，选择本插件安装。
