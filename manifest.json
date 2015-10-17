@@ -11,7 +11,11 @@
     "persistent": true
   },
   "externally_connectable": {
-    "matches": [ "https://rtcat.io/*"]
+    "matches": [ 
+    "https://localhost:3000/*",
+    "https://localhost:15002/*",
+    "https://shishimao.com/*"
+    ]
   },
   "permissions": [
     "desktopCapture",
