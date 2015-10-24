@@ -12,9 +12,7 @@
   },
   "externally_connectable": {
     "matches": [ 
-    "https://localhost:3000/*",
-    "https://localhost:15002/*",
-    "https://shishimao.com/*"
+    "https://localhost:3000/*"
     ]
   },
   "permissions": [
